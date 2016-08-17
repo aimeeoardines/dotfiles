@@ -6,7 +6,7 @@ endif
 
 " Now that we have 256bit color, we can set our colorscheme
 " color vimtana
-color jellybeans
+color detailed
 
 " Turn on auto indention and make it smart! :)
 set autoindent
